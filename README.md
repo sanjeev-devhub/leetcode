@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
