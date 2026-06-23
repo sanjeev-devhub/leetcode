@@ -1,9 +1,8 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> answer= new ArrayList<>();
-        List<Integer> output= new ArrayList<>();
         boolean[] freq= new boolean[nums.length];
-        allPermutation(nums,output,freq,answer);
+        allPermutation(nums,new ArrayList<>(),freq,answer);
         return answer;        
     }
     private void allPermutation(int[] arr, List<Integer> output, boolean[] freq, List<List<Integer>> answer){
