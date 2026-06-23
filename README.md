@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/sanjeev-devhub/leetcode/tree/master/1544-make-the-string-great) |
+| [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
