@@ -3,8 +3,7 @@ class Solution {
         int n =nums.length;
         int[] res = new int[n];
         for(int i=0;i<n;i++){
-            int idx = ((i + nums[i]) % n + n) % n; 
-            res[i] = nums[idx];
+            res[i] = nums[ ((i + nums[i]) % n + n) % n];
         }
         return res;
     }
