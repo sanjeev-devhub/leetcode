@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -84,5 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
