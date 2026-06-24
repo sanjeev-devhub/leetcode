@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/sanjeev-devhub/leetcode/tree/master/1544-make-the-string-great) |
+| [1844-replace-all-digits-with-characters](https://github.com/sanjeev-devhub/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3110-score-of-a-string) |
