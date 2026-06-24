@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0377-combination-sum-iv](https://github.com/sanjeev-devhub/leetcode/tree/master/0377-combination-sum-iv) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
