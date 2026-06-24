@@ -3,14 +3,7 @@ class Solution {
         int countPrimes=0;
         
         while(left<=right){
-            String s=Integer.toBinaryString(left);
-            int totalDigits=0;
-            for(int i=0;i<s.length();i++){
-                if(s.charAt(i)=='1'){
-                    totalDigits++;
-                }
-            }
-            if(isPrime(totalDigits)){
+            if(isPrime(Integer.bitCount(left))){
                 countPrimes++;
             }
             left++;
