@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 |  |
 | ------- |
