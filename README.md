@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
 | ------- |
