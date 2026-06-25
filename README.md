@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/sanjeev-devhub/leetcode/tree/master/1544-make-the-string-great) |
 | [1844-replace-all-digits-with-characters](https://github.com/sanjeev-devhub/leetcode/tree/master/1844-replace-all-digits-with-characters) |
