@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanjeev-devhub/leetcode/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/sanjeev-devhub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-devhub/leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjeev-devhub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjeev-devhub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
