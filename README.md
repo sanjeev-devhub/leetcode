@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
