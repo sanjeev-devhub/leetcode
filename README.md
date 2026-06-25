@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjeev-devhub/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/sanjeev-devhub/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjeev-devhub/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
