@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/sanjeev-devhub/leetcode/tree/master/1544-make-the-string-great) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/sanjeev-devhub/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/2278-percentage-of-letter-in-string) |
