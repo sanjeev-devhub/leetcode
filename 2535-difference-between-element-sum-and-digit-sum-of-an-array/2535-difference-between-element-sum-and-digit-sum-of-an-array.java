@@ -7,11 +7,17 @@ class Solution {
             eleSum+=n;
             int temp=n;
             int currSum=0;
-            while(temp>0){
+            if(temp>9){
+                while(temp>0){
                 currSum+=temp%10;
                 temp/=10;
+                }
+                digitSum+=currSum;
+            }else{
+                digitSum+=temp;
             }
-            digitSum+=currSum;
+            
+            
         }
         return Math.abs(eleSum-digitSum);
         
