@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
