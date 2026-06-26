@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjeev-devhub/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/3467-transform-array-by-parity) |
