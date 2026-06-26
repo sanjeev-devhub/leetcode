@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanjeev-devhub/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
