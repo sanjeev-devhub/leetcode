@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanjeev-devhub/leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/sanjeev-devhub/leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-devhub/leetcode/tree/master/0216-combination-sum-iii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
