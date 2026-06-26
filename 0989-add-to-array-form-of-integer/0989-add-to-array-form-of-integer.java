@@ -7,7 +7,7 @@ class Solution {
 
             int sum = nums[i] + (k % 10) + carry;
 
-            ans.add(0, sum % 10);
+            ans.add(sum % 10);
 
             carry = sum / 10;
             k /= 10;
@@ -17,12 +17,12 @@ class Solution {
 
             int sum = (k % 10) + carry;
 
-            ans.add(0, sum % 10);
+            ans.add(sum % 10);
 
             carry = sum / 10;
             k /= 10;
         }
-
+        Collections.reverse(ans);
         return ans;
         
     }
