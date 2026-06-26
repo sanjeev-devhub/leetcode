@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjeev-devhub/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3941-password-strength](https://github.com/sanjeev-devhub/leetcode/tree/master/3941-password-strength) |
