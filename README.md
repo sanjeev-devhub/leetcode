@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sanjeev-devhub/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjeev-devhub/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/sanjeev-devhub/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
