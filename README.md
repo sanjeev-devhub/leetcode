@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3941-password-strength](https://github.com/sanjeev-devhub/leetcode/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/sanjeev-devhub/leetcode/tree/master/3340-check-balanced-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/sanjeev-devhub/leetcode/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/sanjeev-devhub/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
