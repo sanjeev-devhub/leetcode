@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sanjeev-devhub/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sanjeev-devhub/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/sanjeev-devhub/leetcode/tree/master/1544-make-the-string-great) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjeev-devhub/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/sanjeev-devhub/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
