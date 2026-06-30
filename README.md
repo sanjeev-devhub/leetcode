@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3697-compute-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3697-compute-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
