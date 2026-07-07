@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanjeev-devhub/leetcode/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-devhub/leetcode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0070-climbing-stairs) |
 | [0377-combination-sum-iv](https://github.com/sanjeev-devhub/leetcode/tree/master/0377-combination-sum-iv) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sanjeev-devhub/leetcode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/sanjeev-devhub/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
