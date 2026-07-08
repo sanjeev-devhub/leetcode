@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sanjeev-devhub/leetcode/tree/master/0377-combination-sum-iv) |
 | [0605-can-place-flowers](https://github.com/sanjeev-devhub/leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/sanjeev-devhub/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0746-min-cost-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0070-climbing-stairs) |
 | [0377-combination-sum-iv](https://github.com/sanjeev-devhub/leetcode/tree/master/0377-combination-sum-iv) |
+| [0746-min-cost-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
