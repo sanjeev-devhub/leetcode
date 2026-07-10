@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sanjeev-devhub/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0932-beautiful-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0932-beautiful-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanjeev-devhub/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0932-beautiful-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-devhub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sanjeev-devhub/leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0932-beautiful-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0932-beautiful-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanjeev-devhub/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
