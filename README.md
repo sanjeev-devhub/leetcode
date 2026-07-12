@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjeev-devhub/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/sanjeev-devhub/leetcode/tree/master/0070-climbing-stairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjeev-devhub/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/sanjeev-devhub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-devhub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/sanjeev-devhub/leetcode/tree/master/0844-backspace-string-compare) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanjeev-devhub/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sanjeev-devhub/leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/sanjeev-devhub/leetcode/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/sanjeev-devhub/leetcode/tree/master/0796-rotate-string) |
