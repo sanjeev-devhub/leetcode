@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjeev-devhub/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjeev-devhub/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sanjeev-devhub/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanjeev-devhub/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3697-compute-decimal-representation](https://github.com/sanjeev-devhub/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-devhub/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
